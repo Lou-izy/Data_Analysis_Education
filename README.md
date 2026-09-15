@@ -17,6 +17,16 @@ A partir do cruzamento de microdados públicos do INEP de 2024 (Censo Escolar, N
 |  **Google Colab** | Scripts automatizados em Python utilizados na extração, limpeza, tratamento de nulos e modelagem dos dados. | [Abrir Notebook](https://colab.research.google.com/drive/1HpX57meQgTR0CvXsif2MDJuEelHJtuXX?usp=sharing) |
 
 ---
+## Ferramentas Utilizadas no Projeto
+
+Neste projeto, as seguintes bibliotecas e ferramentas foram utilizadas para a análise de dados e visualização:
+
+*   **pandas**: Utilizada para manipulação e análise de dados, carregamento de CSVs, limpeza de dados, agrupamentos e merge de DataFrames.
+*   **numpy**: Empregado para operações numéricas, especialmente no tratamento de valores `NaN`.
+*   **plotly.express**: Usado para criar gráficos interativos e visualizações de dados como gráficos de dispersão e box plots.
+*   **plotly.graph_objects**: Utilizado para construir gráficos mais customizados e complexos, como gráficos de barras com menus dropdown e anotações.
+*   **IPython.display**: Para a função `display()` que permite exibir DataFrames de forma formatada no notebook.
+---
 
 ## 3. Integrantes do Projeto
 
